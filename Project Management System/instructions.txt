@@ -1,4 +1,4 @@
-1. User Visual Studio, C# Development settings to open solution
+1. Use Visual Studio, C# Development settings to open solution
 2. Run Program
 3. Login with existing usernames and passwords, which can be found at  Project Management System\Project Management System\bin\Debug
 	Username = "1", Password = "1" for Manager
