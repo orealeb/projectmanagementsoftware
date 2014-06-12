@@ -1,0 +1,6 @@
+c:\users\oreoluwa\documents\visual studio 2012\Projects\Project Management System\Project Management System\bin\Debug\Project Management System.exe.config
+c:\users\oreoluwa\documents\visual studio 2012\Projects\Project Management System\Project Management System\obj\Debug\Project Management System.csprojResolveAssemblyReference.cache
+c:\users\oreoluwa\documents\visual studio 2012\Projects\Project Management System\Project Management System\bin\Debug\Project Management System.exe
+c:\users\oreoluwa\documents\visual studio 2012\Projects\Project Management System\Project Management System\bin\Debug\Project Management System.pdb
+c:\users\oreoluwa\documents\visual studio 2012\Projects\Project Management System\Project Management System\obj\Debug\Project Management System.exe
+c:\users\oreoluwa\documents\visual studio 2012\Projects\Project Management System\Project Management System\obj\Debug\Project Management System.pdb

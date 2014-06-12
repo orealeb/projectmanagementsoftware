@@ -1,0 +1,24 @@
+Name,Type,Version,Status,Programmer,Req Doc,Req ID
+Hydraulic System,Package,1.3,Integration Testing,Lisa,DSS,2
+Driver Cabin,Package,1.1,Unit Testing,Susie,DSS,3
+Display Software,Package,1.1.2,Coding,Elmo,DSS,3.1
+Projection Screens,Package,1.3,Integration Testing,Angie,DSS,3.1.1
+Front Screen,Class,1.2,Unit Testing,Angie,DSS,3.1.1.1
+Rear Screen,Class,1.4,Unit Testing,Angie,DSS,3.1.1.2
+Side Screen,Class,0.2,Coding,Loren,DSS,3.1.1.3
+Mirrors,Package,1.2,Integration Testing,Elmo,DSS,3.1.2
+Front Mirror,Class,1.2,Unit Testing,Jennifer,DSS,3.1.2.1
+Rear Mirror,Class,1.1,Unit Testing,Jennifer,DSS,3.1.2.2
+Side Mirror,Class,1.1.3,Unit Testing,Elmo,DSS,3.1.2.3
+Gauges,Package,1.1,Unit Testing,Susan,DSS,3.1.3
+Fuel,Class,0.3,Coding,Susan,DSS,3.1.3.1
+Temperature,Class,1.3,Unit Testing,Susan,DSS,3.1.3.2
+Tachometer,Class,0.2,Coding,Bob,DSS,3.1.3.3
+Warnings,Class,1.5,Unit Testing,Kenny,DSS,3.1.3.4
+Sensor Software,Package,1.2,Coding,Elbert,DSS,3.2
+Steering,Class,0,Not Started,Scott,DSS,3.2.1
+Accelerator,Class,0.1,Design,Scott,DSS,3.2.2
+Brakes,Class,0.2,Design,Steve,DSS,3.2.3
+Turn Signals,Class,0.8,Coding,Elbert,DSS,3.2.4
+Projection System,Package,1.5,Integration Testing,John,DSS,4
+data,Class,1.1,Design,james,DSS,5
